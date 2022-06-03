@@ -6,4 +6,5 @@ all about NLP workflow and projects
   ## Data / Text Preparation 
    ###  &emsp; TEXT PREPROCESSING
    ###  &emsp;###  &emsp; Converting to Lower case
+   ###  &emsp;###  &emsp; Remove HTML Tags
  
