@@ -3,6 +3,6 @@ all about NLP workflow and projects
 
 
 ## NLP_01
-  ### Data / Text Preparation 
+  ## Data / Text Preparation 
    ### TEXT PREPROCESSING
  
