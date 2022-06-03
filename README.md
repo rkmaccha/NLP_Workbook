@@ -12,4 +12,5 @@ all about NLP workflow and projects
    ###  &emsp; &emsp; Chat words convesion
    ###  &emsp; &emsp; Spelling mistakes
    ###  &emsp; &emsp; Stopwords 
+   ###  &emsp; &emsp; Handling emojis
  
