@@ -13,4 +13,5 @@ all about NLP workflow and projects
    ###  &emsp; &emsp; Spelling mistakes
    ###  &emsp; &emsp; Stopwords 
    ###  &emsp; &emsp; Handling emojis
+   ###  &emsp; &emsp; Tokenization
  
