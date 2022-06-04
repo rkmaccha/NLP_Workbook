@@ -17,6 +17,11 @@ all about NLP workflow and projects
      &emsp; &emsp;  &emsp; > Word Tokenisation
      &emsp; &emsp;  &emsp; > Sentence Tokenisation
      &emsp; &emsp; Stemming
+## NLP_01
+  ## Data Representation
+   ##### &emsp; Bag of Words
+   ##### &emsp; NGrams
+   ##### &emsp; Tfidf (term frequency–inverse document frequency)
 ## NLP_02
   ## Data Representation
    ##### &emsp; Bag of Words
