@@ -3,7 +3,7 @@ all about NLP workflow and projects
 
 ## NLP_01
   ## Data / Text Preparation 
-  ###  &emsp; TEXT PREPROCESSING
+  ###  &emsp;TEXT PREPROCESSING
    ##### &emsp; Converting to Lower case
    ##### &emsp; Remove HTML Tags
    ##### &emsp; Remove URLs
