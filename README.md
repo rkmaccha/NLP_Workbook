@@ -20,4 +20,6 @@ all about NLP workflow and projects
 ## NLP_02
   ## Data Representation
    ###  &emsp; Bag of Words
+   ###  &emsp; NGrams
+   &emsp; Tfidf (term frequency–inverse document frequency)
  
