@@ -17,4 +17,7 @@ all about NLP workflow and projects
    ###  &emsp; &emsp;  &emsp; > Word Tokenisation
    ###  &emsp; &emsp;  &emsp; > Sentence Tokenisation
    ###  &emsp; &emsp; Stemming
+## NLP_02
+  ## Data Representation
+   ###  &emsp; Bag of Words
  
