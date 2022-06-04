@@ -6,12 +6,6 @@ all about NLP workflow and projects
   ## Data / Text Preparation 
    ###  &emsp; TEXT PREPROCESSING
 
-     &emsp; &emsp; Stopwords 
-     &emsp; &emsp; Handling emojis
-     &emsp; &emsp; Tokenization
-     &emsp; &emsp;  &emsp; > Word Tokenisation
-     &emsp; &emsp;  &emsp; > Sentence Tokenisation
-     &emsp; &emsp; Stemming
 ## NLP_01
   ## Data Representation
    ##### &emsp; Converting to Lower case
@@ -20,6 +14,13 @@ all about NLP workflow and projects
    ##### &emsp; Remove Punctuations
    ##### &emsp; Chat words convesion
    ##### &emsp; Spelling mistakes
+   ##### &emsp; Stopwords
+   ##### &emsp; Handling emojis
+   ##### &emsp; Tokenization
+   ##### &emsp; Word Tokenisation
+   ##### &emsp; Sentence Tokenisation
+   ##### &emsp; Stemming
+   ##### &emsp; Lemitizing
 ## NLP_02
   ## Data Representation
    ##### &emsp; Bag of Words
