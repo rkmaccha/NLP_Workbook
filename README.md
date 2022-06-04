@@ -14,6 +14,6 @@ all about NLP workflow and projects
    ###  &emsp; &emsp; Stopwords 
    ###  &emsp; &emsp; Handling emojis
    ###  &emsp; &emsp; Tokenization
-   ###  &emsp; &emsp;  &emsp; Word Tokenisation
-   ###  &emsp; &emsp;  &emsp; Sentence Tokenisation
+   ###  &emsp; &emsp;  &emsp; > Word Tokenisation
+   ###  &emsp; &emsp;  &emsp; > Sentence Tokenisation
  
